@@ -1,7 +1,13 @@
 # ***Welcome to my GitSpace!*** 👨‍💻 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpetrauskas92.kpetrauskas92)
 
-Hi, I'm Karolis.
-After completing my Full Stack Developer course at the Code Institute, my enthusiasm for technology and nature has only grown. This passion drives my freelance work, where I embrace projects that challenge and inspire. Despite the fulfillment freelancing offers, I am on the lookout for full-time positions or long-term collaborations that will allow me to contribute to a team's success and engage with innovative ideas on a deeper level. If my expertise aligns with what you need, I'm just a message away."
+👋 Hi, I’m Karolis.
+I’m a Full Stack Developer and Web Administrator with experience building and managing web solutions using technologies like Python, Django, JavaScript, and WordPress. Alongside my freelance work, I currently manage the eCommerce platform for Clarenbridge Garden Centre, ensuring smooth functionality, design consistency, and an engaging user experience.
+
+This September, I’ll be starting a Diploma in Cybersecurity, marking the next step in my career as I move deeper into the security side of technology. My goal is to combine my development background with strong cybersecurity expertise, preparing for roles that bridge both disciplines.
+
+I enjoy tackling projects that are both creative and technical, and I’m always open to opportunities for collaboration, whether in development, IT, or cybersecurity.
+
+📬 If my work and direction align with what you need, let’s connect.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kpetrauskas92/)](https://www.linkedin.com/in/pkarolisdev/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=-square&logo=instagram&logoColor=white&link=https://instagram.com/karolis.photos/)](https://instagram.com/karolis.photos)
