@@ -1,65 +1,82 @@
-# ***Welcome to my GitSpace!*** 👨‍💻 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kpetrauskas92.kpetrauskas92)
+# Welcome to my GitSpace
 
-👋 Hi, I’m Karolis.
-I’m a Full Stack Developer and Web Administrator with experience building and managing web solutions using technologies like Python, Django, JavaScript, and WordPress. Alongside my freelance work, I currently manage the eCommerce platform for Clarenbridge Garden Centre, ensuring smooth functionality, design consistency, and an engaging user experience.
+**Karolis Petrauskas — Full-Stack Developer • Web Administrator • Cybersecurity Student**
 
-This September, I’ll be starting a Diploma in Cybersecurity, marking the next step in my career as I move deeper into the security side of technology. My goal is to combine my development background with strong cybersecurity expertise, preparing for roles that bridge both disciplines.
+I build and manage web solutions with Python, Django, JavaScript, and WordPress. I focus on secure architecture, clean design systems, and efficient workflows. I’m currently studying Cybersecurity and GRC, strengthening my foundation for security-focused development and governance-aligned practices.
 
-I enjoy tackling projects that are both creative and technical, and I’m always open to opportunities for collaboration, whether in development, IT, or cybersecurity.
+---
 
-📬 If my work and direction align with what you need, let’s connect.
+## Links
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kpetrauskas92/)](https://www.linkedin.com/in/pkarolisdev/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=-square&logo=instagram&logoColor=white&link=https://instagram.com/karolis.photos/)](https://instagram.com/karolis.photos)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=-square&logo=Gmail&logoColor=white&link=mailto:pkarolis.dev@gmail.com)](mailto:k.petrauskas92+dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkarolisdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/karolis.photos)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:k.petrauskas92+dev@gmail.com)
 
+---
 
-#### ⚡ ***Technologies:***
-  
-![JavaScript](https://img.shields.io/badge/%20JavaScript-000000?style=square&logo=JavaScript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/%20Python-000000?style=square&logo=Python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/%20HTML5-000000?style=square&logo=Html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/%20CSS3-000000?style=square&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/%20Git-000000?style=square&logo=git&logoColor=E44C30)
-![GitHub](https://img.shields.io/badge/%20GitHub-000000?style=square&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/%20Heroku-000000?style=square&logo=heroku&logoColor=430098)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=square&logo=netlify&logoColor=#00C7B7)
+## Core Stack
 
-#### 🚀 ***Frameworks:***
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-000000?style=flat-square&logo=woocommerce)
 
-![Bootstrap](https://img.shields.io/badge/%20Bootstrap-000000?style=square&logo=bootstrap&logoColor=563D7C)
-![TailwindCSS](https://img.shields.io/badge/%20TailwindCSS-000000?style=square&logo=tailwindcss&logoColor=07B0CE)
-![Django](https://img.shields.io/badge/%20Django-000000?style=square&logo=django&logoColor=092D1F)
+## Tooling
 
-#### 🖥️ ***IDE:***
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode)
+![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=flat-square&logo=gitpod)
 
-![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=square&logo=gitpod&logoColor=orange)
-![VSC](https://img.shields.io/badge/VSCode-000000?style=square&logo=visual%20studio%20code&logoColor=0078D4)
+## UI / Styling
 
-#### 🖍 ***Design:***
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap)
 
-![Photoshop](https://img.shields.io/badge/%20Photoshop-000000?style=square&logo=Adobe%20Photoshop&logoColor=31A8FF)
-![Lightroom](https://img.shields.io/badge/%20Lightroom-000000?style=square&logo=Adobe%20Lightroom&logoColor=31A8FF)
+## Design
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kpetrauskas92&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpetrauskas92&hide=TeX&layout=compact)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop)
+![Lightroom](https://img.shields.io/badge/Lightroom-000000?style=flat-square&logo=adobelightroom)
 
-### Watch my contribution graph get eaten by the snake 🐍
-<table><tr><td>
+---
 
-![snake gif](https://github.com/kpetrauskas92/kpetrauskas92/blob/output/github-contribution-grid-snake-dark.svg)
-</td></tr></table>
+## Focus
 
-## 🏅 Participation Badges
+- Secure-by-default web apps and eCommerce systems  
+- Backend data flows, catalogue integrity, and admin UX  
+- Cybersecurity and GRC foundations for governance-driven development  
+- Performance, accessibility, and measurable SEO
 
-<div style="align center">
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpetrauskas92&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpetrauskas92&hide=TeX&layout=compact)
+
+---
+
+## Contribution Graph
+
+<img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph Animation" />
+
+---
+
+## Participation Badges
+
+<div align="left">
   <a href="https://api.eu.badgr.io/public/assertions/850-_-KPSeq4VS26pkeBNQ?identity__email=k.petrauskas92%40gmail.com">
-    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
+    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150" alt="Code Institute March 2023 Hackathon Participant">
   </a>
   <a href="https://api.eu.badgr.io/public/assertions/1iQhUFk_RVOSe4sgWn0Ocw?identity__email=k.petrauskas92%40gmail.com">
-    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150">
+    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Code%20Institute%20-%20March%202023%20Hackathon%20Participant%20-%202023-03-20.png" width="150" alt="Code Institute March 2023 Hackathon Participant">
   </a>
   <a href="https://api.eu.badgr.io/public/assertions/fRNBtq4_T0-qwFOFdGjh1A?identity__email=k.petrauskas92%40gmail.com">
-    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Feb%202024%20Hackathon.png" width="150">
+    <img src="https://github.com/kpetrauskas92/kpetrauskas92/blob/main/Feb%202024%20Hackathon.png" width="150" alt="Code Institute February 2024 Hackathon Participant">
   </a>
 </div>
